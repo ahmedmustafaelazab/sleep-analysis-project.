@@ -1,0 +1,275 @@
+personal ID,gender,age,occupations,sleep duration,quality of sleep,physical activity level,stress level,BMI category,Blood Pressure,heart rate,daily steps,sleep Disorder
+SLP001,Male,40,Teacher,4.81,2,44,5,Normal,121/84,59,30000,Sleep Apnea
+SLP002,Female,65,Freelancer,6.89,3,42,8,Normal,127/87,81,30000,None
+SLP003,Female,41,Security,3.5,1,47,10,Normal,126/78,76,30000,Insomnia
+SLP004,Female,46,Nurse,7.47,4,49,8,Normal,124/72,72,30000,None
+SLP005,Male,45,Driver,7.32,4,28,5,Overweight,119/83,70,27600,None
+SLP006,Male,42,Manager,4.67,1,30,10,Normal,107/85,77,30000,None
+SLP007,Male,32,Pharmacist,7.37,6,46,7,Normal,130/91,79,30000,None
+SLP008,Female,43,Manager,6.2,3,34,7,Overweight,135/81,74,30000,None
+SLP009,Female,27,Developer,5.87,3,61,7,Normal,123/79,76,30000,Sleep Apnea
+SLP010,Female,33,Pharmacist,5.29,3,46,6,Obese,122/79,82,30000,None
+SLP011,Male,30,Lawyer,5.61,4,79,5,Overweight,149/92,66,30000,Insomnia
+SLP012,Female,36,Unemployed,5.95,3,60,8,Normal,117/71,74,30000,None
+SLP013,Female,58,Doctor,5.89,4,65,7,Overweight,106/73,70,30000,None
+SLP014,Male,18,Driver,7.54,7,47,7,Overweight,137/67,76,30000,None
+SLP015,Male,42,Teacher,5.55,2,48,7,Overweight,124/73,71,30000,None
+SLP016,Male,19,Technician,8.36,7,76,4,Normal,115/69,71,30000,None
+SLP017,Male,30,Lawyer,6.49,3,38,7,Normal,124/78,77,30000,None
+SLP018,Female,46,Researcher,7.23,5,55,5,Overweight,130/68,84,30000,None
+SLP019,Male,36,Security,6.7,3,40,8,Normal,116/87,79,30000,None
+SLP020,Male,24,Doctor,6.22,5,40,5,Normal,102/68,69,30000,None
+SLP021,Female,28,Security,6.53,3,24,9,Normal,125/81,80,27960,None
+SLP022,Male,42,Engineer,4.89,1,32,9,Overweight,128/82,77,30000,Sleep Apnea
+SLP023,Male,28,Security,4.14,1,28,9,Normal,110/82,80,28470,Insomnia
+SLP024,Male,37,Accountant,5.12,4,56,7,Obese,145/80,78,30000,None
+SLP025,Male,35,Accountant,5.12,2,64,7,Overweight,130/89,77,30000,None
+SLP026,Female,28,Pharmacist,4.54,2,43,7,Overweight,115/88,65,30000,Sleep Apnea
+SLP027,Male,56,Developer,5.82,4,49,5,Obese,137/64,75,30000,Insomnia
+SLP028,Male,41,Freelancer,5.63,3,42,9,Obese,135/77,77,30000,None
+SLP029,Female,18,Driver,6.12,3,30,8,Obese,130/80,87,30000,Sleep Apnea
+SLP030,Male,37,Technician,7.71,7,61,5,Normal,140/81,87,30000,None
+SLP031,Female,28,Nurse,7.51,6,57,6,Overweight,120/82,75,30000,None
+SLP032,Male,44,Sales,4.37,1,11,8,Normal,113/92,67,10720,Insomnia
+SLP033,Male,27,Unemployed,4.51,2,40,8,Normal,133/79,90,30000,None
+SLP034,Female,34,Engineer,5.71,1,29,10,Normal,145/81,74,30000,Sleep Apnea
+SLP035,Female,40,Lawyer,5.63,2,38,8,Overweight,142/85,70,30000,Insomnia
+SLP036,Female,44,Sales,5.79,3,33,8,Normal,123/80,75,30000,None
+SLP037,Male,23,Nurse,6.17,1,44,10,Overweight,127/79,91,30000,None
+SLP038,Male,32,Student,6.76,3,39,8,Obese,128/93,87,30000,None
+SLP039,Female,30,Sales,6.79,4,39,8,Overweight,147/97,93,30000,None
+SLP040,Male,28,Sales,4.62,3,65,5,Overweight,121/88,67,30000,Insomnia
+SLP041,Male,53,Operator,8.24,6,55,7,Overweight,144/74,91,30000,None
+SLP042,Male,39,Doctor,5.62,1,32,8,Obese,131/69,73,26290,Insomnia
+SLP043,Male,22,Designer,5.15,2,35,8,Overweight,138/92,64,30000,Insomnia
+SLP044,Female,44,Technician,7.03,5,54,8,Overweight,112/78,89,30000,None
+SLP045,Male,56,Teacher,5.31,3,54,6,Obese,117/75,81,30000,Insomnia
+SLP046,Female,45,Freelancer,6.63,3,34,8,Obese,135/88,80,30000,None
+SLP047,Male,20,Accountant,5.92,1,41,8,Normal,131/86,81,30000,Sleep Apnea
+SLP048,Female,30,Nurse,5.79,4,78,5,Normal,134/81,63,30000,None
+SLP049,Female,48,Doctor,7.45,7,34,7,Normal,143/79,85,29410,None
+SLP050,Male,28,Sales,6.48,5,79,5,Normal,116/81,76,30000,None
+SLP051,Female,39,Engineer,6.25,2,65,5,Overweight,125/96,77,30000,None
+SLP052,Female,43,Unemployed,4.51,1,76,7,Overweight,128/79,67,30000,Insomnia
+SLP053,Female,26,Designer,4.94,1,34,6,Obese,143/80,80,28230,Insomnia
+SLP054,Female,34,Doctor,8.09,5,42,7,Normal,129/74,71,30000,None
+SLP055,Female,18,Security,5.68,2,37,10,Obese,138/89,87,30000,None
+SLP056,Female,25,Sales,7.03,5,65,6,Overweight,149/78,76,30000,None
+SLP057,Male,32,Pharmacist,6.61,2,35,8,Overweight,133/85,80,30000,None
+SLP058,Male,23,Sales,5.82,3,58,8,Obese,132/76,68,30000,Insomnia
+SLP059,Male,51,Freelancer,4.55,3,57,6,Overweight,143/84,79,30000,Sleep Apnea
+SLP060,Male,21,Engineer,5.13,3,44,6,Normal,102/68,63,30000,None
+SLP061,Male,31,Security,5.65,5,68,6,Overweight,119/92,71,30000,None
+SLP062,Male,36,Designer,6.17,4,47,7,Normal,100/72,72,30000,None
+SLP063,Female,49,Accountant,7.56,6,60,4,Underweight,102/67,60,30000,Insomnia
+SLP064,Male,21,Freelancer,5.27,1,36,8,Obese,132/80,63,30000,Insomnia
+SLP065,Male,47,Lawyer,4.28,1,32,9,Normal,115/72,90,26570,Insomnia
+SLP066,Female,35,Developer,6.83,7,58,5,Overweight,143/93,84,30000,None
+SLP067,Male,25,Nurse,6.93,5,53,7,Normal,117/83,80,30000,None
+SLP068,Female,40,Sales,4.65,1,49,8,Obese,153/78,76,30000,Sleep Apnea
+SLP069,Male,37,Doctor,5.62,1,39,8,Normal,138/76,61,30000,Insomnia
+SLP070,Female,29,Freelancer,7.67,6,73,6,Obese,117/79,77,30000,None
+SLP071,Female,36,Unemployed,5.3,1,25,8,Overweight,137/82,79,28020,Insomnia
+SLP072,Male,31,Student,5.57,1,24,7,Normal,115/74,54,22500,Insomnia
+SLP073,Male,36,Unemployed,8.16,3,62,6,Overweight,135/72,69,30000,Insomnia
+SLP074,Female,42,Pharmacist,6.51,5,60,6,Obese,135/78,89,30000,Insomnia
+SLP075,Female,51,Developer,4.63,3,51,7,Normal,105/84,80,30000,None
+SLP076,Female,23,Security,6.68,4,40,9,Normal,116/72,74,30000,None
+SLP077,Female,56,Student,7.72,6,54,5,Normal,116/88,78,30000,None
+SLP078,Male,18,Chef,5.07,2,76,6,Overweight,124/87,72,30000,Sleep Apnea
+SLP079,Male,33,Sales,6.03,3,90,3,Overweight,137/72,68,30000,Insomnia
+SLP080,Male,41,Nurse,5.78,2,15,8,Overweight,130/77,86,14210,Insomnia
+SLP081,Female,38,Designer,6.92,4,37,8,Normal,134/81,72,30000,None
+SLP082,Female,29,Doctor,7.91,6,36,6,Normal,114/80,83,30000,Insomnia
+SLP083,Male,33,Lawyer,5.27,1,74,6,Overweight,116/82,86,30000,Insomnia
+SLP084,Male,30,Designer,3.5,1,0,8,Normal,127/73,75,500,Insomnia
+SLP085,Male,29,Teacher,7.74,2,54,7,Normal,134/92,77,30000,Insomnia
+SLP086,Male,43,Student,7.41,4,40,5,Obese,103/69,63,30000,Sleep Apnea
+SLP087,Female,39,Sales,8.79,8,74,5,Overweight,123/79,67,30000,None
+SLP088,Female,28,Researcher,5.19,3,72,8,Overweight,152/84,76,30000,Insomnia
+SLP089,Female,44,Driver,4.87,2,52,9,Overweight,137/76,83,30000,None
+SLP090,Male,38,Nurse,6.18,5,17,8,Overweight,122/79,76,14170,None
+SLP091,Male,43,Driver,4.48,1,35,8,Overweight,133/85,85,30000,Insomnia
+SLP092,Female,41,Developer,4.23,1,37,9,Normal,118/83,85,30000,Insomnia
+SLP093,Female,27,Engineer,7.68,2,21,9,Normal,126/82,88,24390,None
+SLP094,Female,29,Lawyer,6.4,5,66,6,Normal,124/90,70,30000,None
+SLP095,Female,42,Accountant,8.04,5,19,7,Normal,115/65,89,21990,None
+SLP096,Male,41,Engineer,7.92,5,80,6,Overweight,116/85,57,30000,None
+SLP097,Female,35,Unemployed,6.1,4,80,7,Normal,121/74,71,30000,None
+SLP098,Male,36,Student,5.55,3,38,9,Normal,110/81,78,30000,None
+SLP099,Male,48,Nurse,5.91,5,51,5,Normal,126/78,71,30000,None
+SLP100,Male,29,Technician,5.68,5,44,6,Normal,116/78,73,30000,None
+SLP101,Male,40,Pharmacist,6.69,3,61,8,Overweight,129/82,83,30000,None
+SLP102,Female,33,Technician,7.08,6,68,4,Normal,103/77,64,30000,None
+SLP103,Male,33,Designer,4.78,2,50,8,Overweight,128/91,65,30000,Sleep Apnea
+SLP104,Male,46,Security,5.0,5,53,6,Normal,116/75,83,30000,None
+SLP105,Female,43,Sales,6.6,3,34,7,Overweight,149/84,70,30000,Insomnia
+SLP106,Male,43,Teacher,6.73,3,53,7,Obese,121/84,67,30000,None
+SLP107,Male,48,Pharmacist,4.15,4,48,5,Normal,116/79,66,30000,None
+SLP108,Female,35,Nurse,3.5,1,29,9,Overweight,141/73,87,30000,Insomnia
+SLP109,Male,42,Developer,5.48,3,45,9,Normal,114/73,79,30000,None
+SLP110,Male,32,Researcher,8.81,5,38,8,Normal,140/79,77,30000,None
+SLP111,Male,38,Chef,5.08,4,34,7,Obese,131/79,73,30000,None
+SLP112,Male,34,Designer,3.81,3,24,6,Normal,124/78,55,19420,None
+SLP113,Female,36,Technician,7.96,6,46,5,Normal,117/74,51,30000,None
+SLP114,Female,41,Engineer,9.3,8,31,6,Overweight,142/79,65,28030,None
+SLP115,Female,27,Developer,6.83,5,37,7,Normal,123/91,72,30000,None
+SLP116,Female,56,Teacher,7.02,5,64,6,Obese,104/82,56,30000,None
+SLP117,Female,25,Teacher,6.16,4,56,7,Normal,115/78,79,30000,None
+SLP118,Male,23,Student,3.78,1,27,6,Obese,130/67,79,22370,Insomnia
+SLP119,Female,47,Accountant,5.43,1,51,8,Overweight,122/72,72,30000,Sleep Apnea
+SLP120,Female,43,Accountant,4.82,3,47,8,Overweight,101/76,84,30000,None
+SLP121,Female,41,Designer,6.98,3,76,5,Obese,119/76,88,30000,Insomnia
+SLP122,Female,41,Technician,6.46,6,70,4,Normal,103/60,64,30000,None
+SLP123,Male,35,Nurse,6.05,3,17,10,Obese,132/92,86,15380,None
+SLP124,Male,26,Chef,8.16,6,61,6,Normal,114/75,65,30000,None
+SLP125,Male,36,Teacher,6.29,2,68,6,Normal,119/89,70,30000,Insomnia
+SLP126,Male,28,Nurse,7.59,5,55,7,Normal,102/74,71,30000,None
+SLP127,Female,45,Nurse,6.38,3,39,6,Overweight,110/83,65,30000,None
+SLP128,Female,34,Freelancer,7.02,5,88,5,Normal,120/84,66,30000,None
+SLP129,Male,27,Chef,6.6,2,57,7,Obese,136/88,72,30000,Insomnia
+SLP130,Male,32,Doctor,5.69,3,81,6,Obese,121/77,66,30000,Insomnia
+SLP131,Male,39,Lawyer,6.0,3,69,7,Obese,115/81,78,30000,Insomnia
+SLP132,Male,29,Driver,7.28,6,53,5,Normal,136/74,72,30000,None
+SLP133,Male,27,Researcher,7.43,4,35,7,Overweight,99/69,78,29460,None
+SLP134,Male,37,Accountant,5.22,3,45,7,Normal,119/60,80,30000,None
+SLP135,Female,37,Accountant,7.46,7,41,8,Normal,124/70,69,30000,None
+SLP136,Male,30,Manager,5.02,1,23,9,Normal,139/77,82,28590,None
+SLP137,Male,30,Accountant,7.39,5,57,7,Normal,132/86,78,30000,None
+SLP138,Female,37,Chef,6.36,3,73,9,Overweight,140/77,63,30000,Sleep Apnea
+SLP139,Male,21,Freelancer,4.95,1,40,7,Overweight,119/81,76,30000,Insomnia
+SLP140,Female,21,Sales,6.29,4,84,5,Normal,117/78,85,30000,Insomnia
+SLP141,Female,28,Student,5.1,4,17,7,Normal,110/70,76,15150,Sleep Apnea
+SLP142,Male,33,Security,7.39,5,64,4,Normal,115/75,68,30000,None
+SLP143,Male,38,Student,8.11,7,75,4,Underweight,122/81,60,30000,None
+SLP144,Male,50,Pharmacist,6.28,6,41,6,Obese,116/74,77,30000,Sleep Apnea
+SLP145,Male,44,Student,7.35,4,42,9,Underweight,121/79,86,30000,None
+SLP146,Male,33,Security,5.81,5,64,6,Normal,120/71,78,30000,None
+SLP147,Female,35,Engineer,8.46,5,54,7,Normal,139/81,82,30000,None
+SLP148,Male,25,Chef,3.81,1,9,9,Overweight,129/73,82,8120,Insomnia
+SLP149,Male,35,Accountant,5.55,1,30,8,Obese,113/79,86,28690,Insomnia
+SLP150,Male,32,Accountant,6.72,2,45,9,Overweight,123/80,78,30000,Sleep Apnea
+SLP151,Female,38,Freelancer,6.0,3,20,6,Overweight,127/76,77,19980,Insomnia
+SLP152,Male,27,Manager,4.92,3,36,9,Overweight,148/74,84,28920,None
+SLP153,Male,40,Freelancer,6.92,3,21,5,Normal,117/90,79,22290,Insomnia
+SLP154,Male,50,Sales,6.63,6,38,7,Obese,132/95,76,30000,None
+SLP155,Female,34,Sales,6.51,3,39,10,Overweight,139/83,77,30000,None
+SLP156,Male,39,Teacher,6.28,2,51,8,Overweight,114/67,72,30000,Insomnia
+SLP157,Female,42,Manager,4.46,1,43,8,Overweight,132/93,74,30000,Insomnia
+SLP158,Female,31,Freelancer,5.99,4,54,9,Overweight,114/72,87,30000,None
+SLP159,Male,37,Accountant,5.72,4,52,6,Overweight,134/76,86,30000,Sleep Apnea
+SLP160,Female,35,Driver,4.21,1,64,7,Obese,127/71,68,30000,Insomnia
+SLP161,Male,36,Unemployed,6.73,3,61,7,Obese,131/96,68,30000,Insomnia
+SLP162,Female,27,Security,6.33,6,59,6,Overweight,127/60,74,30000,None
+SLP163,Female,35,Security,6.37,4,100,4,Overweight,140/74,72,30000,Sleep Apnea
+SLP164,Female,40,Student,4.74,3,51,6,Underweight,99/60,72,30000,Insomnia
+SLP165,Male,50,Unemployed,5.32,2,92,5,Overweight,144/89,73,30000,Insomnia
+SLP166,Female,45,Manager,5.04,2,52,7,Underweight,120/75,74,30000,None
+SLP167,Male,57,Doctor,8.15,5,44,7,Overweight,117/79,70,30000,None
+SLP168,Male,27,Sales,6.8,3,38,8,Obese,109/84,79,30000,None
+SLP169,Male,44,Student,7.21,8,72,3,Overweight,132/71,60,30000,None
+SLP170,Female,37,Nurse,6.52,5,75,5,Normal,121/96,82,30000,None
+SLP171,Female,57,Student,8.04,5,56,5,Normal,116/74,69,30000,Sleep Apnea
+SLP172,Male,27,Doctor,10.1,8,65,6,Normal,127/76,69,30000,None
+SLP173,Male,27,Engineer,5.86,5,22,8,Overweight,145/71,76,27180,None
+SLP174,Male,29,Driver,6.44,3,17,8,Normal,108/83,81,20270,None
+SLP175,Female,18,Nurse,6.75,4,67,7,Normal,125/72,70,30000,None
+SLP176,Male,30,Driver,3.97,1,43,8,Normal,126/69,84,30000,None
+SLP177,Female,27,Student,8.1,7,58,6,Overweight,111/79,66,30000,None
+SLP178,Male,37,Sales,6.15,3,32,6,Overweight,132/85,74,30000,None
+SLP179,Female,38,Lawyer,4.87,1,75,4,Underweight,131/83,55,30000,Insomnia
+SLP180,Male,54,Security,5.91,3,17,8,Normal,149/77,90,14050,Sleep Apnea
+SLP181,Male,45,Doctor,6.4,2,20,9,Overweight,128/94,88,22690,None
+SLP182,Male,29,Lawyer,8.17,7,71,5,Overweight,137/62,94,30000,None
+SLP183,Female,26,Unemployed,4.47,1,0,10,Overweight,134/88,86,500,Sleep Apnea
+SLP184,Female,40,Security,6.86,6,52,6,Normal,104/84,64,30000,None
+SLP185,Male,22,Accountant,6.93,6,43,5,Overweight,131/88,61,30000,None
+SLP186,Female,53,Nurse,5.85,3,32,9,Normal,120/80,88,28430,Insomnia
+SLP187,Female,47,Security,5.97,4,41,9,Obese,125/87,78,30000,None
+SLP188,Female,30,Doctor,5.39,3,30,5,Overweight,130/80,66,30000,Insomnia
+SLP189,Female,18,Developer,4.96,5,73,5,Normal,117/60,74,30000,None
+SLP190,Male,49,Lawyer,5.3,4,77,5,Normal,126/73,73,30000,None
+SLP191,Male,34,Engineer,4.98,1,33,10,Overweight,114/93,93,30000,None
+SLP192,Female,47,Freelancer,5.02,2,50,7,Overweight,111/84,77,30000,Insomnia
+SLP193,Female,19,Freelancer,6.75,3,21,6,Overweight,131/88,67,25940,None
+SLP194,Female,29,Doctor,6.44,4,64,7,Overweight,122/69,86,30000,None
+SLP195,Male,35,Doctor,4.38,1,64,5,Overweight,122/81,81,30000,Insomnia
+SLP196,Male,35,Designer,4.9,2,40,7,Overweight,126/89,78,30000,None
+SLP197,Female,30,Nurse,6.84,5,45,6,Normal,118/61,75,30000,None
+SLP198,Female,41,Unemployed,6.06,3,43,6,Obese,132/89,89,30000,Sleep Apnea
+SLP199,Female,24,Designer,6.12,3,16,10,Normal,134/90,78,13450,None
+SLP200,Female,34,Driver,4.92,1,73,7,Normal,123/70,65,30000,Insomnia
+SLP201,Female,36,Accountant,8.86,4,31,6,Obese,136/78,80,30000,Insomnia
+SLP202,Male,40,Sales,3.52,1,31,8,Underweight,123/77,75,30000,Insomnia
+SLP203,Male,42,Sales,6.22,4,42,6,Normal,133/83,85,30000,None
+SLP204,Female,24,Accountant,7.23,5,63,5,Normal,117/60,89,30000,Sleep Apnea
+SLP205,Female,20,Security,5.35,3,34,8,Obese,120/88,89,30000,None
+SLP206,Male,48,Chef,5.91,2,10,8,Normal,100/80,81,9080,Insomnia
+SLP207,Male,38,Designer,5.07,5,29,8,Underweight,109/71,86,24470,None
+SLP208,Female,28,Developer,7.32,6,53,7,Underweight,128/87,75,30000,None
+SLP209,Male,51,Lawyer,7.09,5,84,5,Normal,109/76,56,30000,None
+SLP210,Male,36,Accountant,6.89,1,22,10,Underweight,123/79,77,25040,Sleep Apnea
+SLP211,Female,47,Researcher,6.43,3,22,7,Normal,121/84,82,24590,Sleep Apnea
+SLP212,Female,36,Student,5.51,1,18,10,Overweight,125/72,83,18010,None
+SLP213,Female,56,Security,7.48,6,16,6,Normal,106/78,77,17420,None
+SLP214,Male,53,Accountant,6.2,2,67,9,Normal,135/85,81,30000,Insomnia
+SLP215,Female,33,Designer,8.07,6,72,5,Normal,124/75,73,30000,None
+SLP216,Male,45,Developer,6.2,4,48,5,Normal,139/78,70,30000,None
+SLP217,Male,41,Developer,7.67,4,37,7,Overweight,126/89,81,30000,Insomnia
+SLP218,Female,49,Doctor,6.78,7,77,4,Overweight,126/83,74,30000,None
+SLP219,Female,25,Operator,6.16,3,48,7,Underweight,138/80,72,30000,Sleep Apnea
+SLP220,Female,42,Doctor,7.14,6,65,8,Normal,131/64,64,30000,None
+SLP221,Female,46,Nurse,6.98,4,36,6,Normal,132/73,67,30000,None
+SLP222,Female,18,Nurse,4.1,1,46,8,Obese,117/80,68,30000,Insomnia
+SLP223,Male,23,Accountant,5.42,1,23,6,Overweight,112/83,78,29000,Insomnia
+SLP224,Male,18,Driver,3.5,1,56,8,Overweight,132/89,87,30000,Insomnia
+SLP225,Male,32,Pharmacist,5.75,4,48,7,Normal,139/89,63,30000,None
+SLP226,Male,42,Technician,6.18,2,29,9,Obese,103/75,79,25210,None
+SLP227,Female,50,Freelancer,5.27,1,29,8,Underweight,114/82,72,30000,Insomnia
+SLP228,Male,36,Chef,9.06,7,74,5,Normal,112/72,83,30000,None
+SLP229,Female,51,Accountant,5.7,5,80,6,Normal,121/63,66,30000,None
+SLP230,Female,21,Technician,6.73,4,41,6,Normal,109/73,74,30000,None
+SLP231,Female,18,Designer,6.84,4,46,5,Obese,125/81,81,30000,None
+SLP232,Male,34,Student,8.31,6,52,7,Overweight,116/79,81,30000,None
+SLP233,Female,39,Chef,5.59,2,48,6,Normal,122/62,91,30000,Insomnia
+SLP234,Male,35,Nurse,3.5,1,15,9,Overweight,139/95,69,17210,Insomnia
+SLP235,Male,18,Chef,7.26,2,53,8,Obese,134/90,82,30000,Insomnia
+SLP236,Female,34,Doctor,4.63,1,7,10,Obese,136/103,84,8620,None
+SLP237,Male,22,Student,6.28,2,32,9,Overweight,112/84,76,27710,Insomnia
+SLP238,Male,42,Freelancer,5.59,4,54,7,Obese,124/86,77,30000,None
+SLP239,Female,39,Accountant,4.08,2,56,7,Obese,118/90,79,30000,None
+SLP240,Male,26,Security,3.76,1,30,8,Overweight,151/70,80,30000,Sleep Apnea
+SLP241,Female,30,Security,6.73,2,37,8,Normal,126/74,74,30000,Insomnia
+SLP242,Female,24,Technician,6.72,4,34,8,Normal,108/88,75,30000,None
+SLP243,Female,34,Technician,5.37,3,43,7,Obese,132/70,76,30000,None
+SLP244,Male,45,Driver,4.78,3,45,7,Normal,118/75,79,30000,Insomnia
+SLP245,Male,25,Unemployed,7.47,6,57,7,Obese,151/81,73,30000,None
+SLP246,Female,40,Technician,6.02,1,36,7,Normal,117/67,72,30000,Insomnia
+SLP247,Male,30,Teacher,7.85,4,52,7,Underweight,113/71,81,30000,Insomnia
+SLP248,Female,27,Unemployed,6.81,3,54,8,Normal,112/78,85,30000,None
+SLP249,Female,34,Designer,6.12,6,49,6,Underweight,95/65,74,30000,None
+SLP250,Female,25,Sales,6.83,2,40,5,Obese,124/79,66,30000,Insomnia
+SLP251,Male,29,Engineer,8.09,7,48,7,Overweight,126/83,72,30000,None
+SLP252,Male,23,Manager,6.86,2,59,6,Overweight,122/88,81,30000,None
+SLP253,Female,55,Researcher,7.49,5,60,7,Overweight,142/69,71,30000,Sleep Apnea
+SLP254,Male,35,Engineer,5.32,4,78,5,Normal,108/83,88,30000,None
+SLP255,Male,28,Pharmacist,5.71,1,27,7,Overweight,115/95,84,27690,Insomnia
+SLP256,Female,37,Designer,7.03,5,37,7,Overweight,122/86,76,30000,None
+SLP257,Female,34,Developer,4.3,1,16,10,Overweight,149/105,87,17040,Insomnia
+SLP258,Female,33,Freelancer,6.84,5,62,7,Normal,114/75,74,30000,None
+SLP259,Female,41,Manager,6.04,5,39,4,Overweight,110/90,76,30000,None
+SLP260,Male,43,Unemployed,7.57,8,49,7,Normal,96/62,71,30000,None
+SLP261,Female,30,Sales,6.82,4,34,8,Obese,139/87,79,30000,None
+SLP262,Female,29,Student,3.5,2,39,7,Obese,132/77,83,30000,Insomnia
+SLP263,Male,32,Pharmacist,8.8,5,67,5,Normal,130/66,83,30000,None
+SLP264,Male,18,Designer,6.43,1,57,8,Overweight,143/77,81,30000,Insomnia
+SLP265,Female,20,Researcher,5.31,3,43,9,Overweight,130/82,67,30000,None
+SLP266,Female,49,Pharmacist,7.47,6,59,4,Underweight,117/79,65,30000,None
+SLP267,Female,51,Manager,6.38,6,59,5,Obese,107/80,65,30000,None
+SLP268,Female,33,Pharmacist,7.19,6,38,7,Obese,130/70,94,30000,None
+SLP269,Male,41,Unemployed,4.82,1,19,9,Normal,119/91,76,22290,None
+SLP270,Male,38,Technician,6.22,4,29,8,Normal,139/89,65,27710,None
+SLP271,Female,65,Pharmacist,7.58,5,21,7,Normal,115/85,89,25670,None
+SLP272,Female,46,Unemployed,7.09,5,66,7,Normal,122/78,70,30000,Insomnia
+SLP273,Female,34,Accountant,6.39,5,69,6,Underweight,118/91,74,30000,None
+SLP274,Female,25,Pharmacist,8.03,6,74,5,Obese,143/84,82,30000,None
